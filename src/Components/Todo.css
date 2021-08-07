@@ -1,0 +1,22 @@
+
+#header
+{
+    
+} 
+#header span 
+{
+    display: inline-block;
+    margin-left:50px;
+    width: 70px;
+    border: 1px solid black;
+margin-top: 30px;
+}
+.list span
+{
+    display: inline-block;
+    margin-left:50px;
+    width: 70px;
+    border: 1px solid rgb(209, 0, 0);
+    color: rgb(0, 0, 0);
+    
+}

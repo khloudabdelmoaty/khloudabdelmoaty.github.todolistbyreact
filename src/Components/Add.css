@@ -1,0 +1,50 @@
+.container
+{
+   
+    width: 40%;
+   padding: 40x 10px;
+    margin: auto;
+    text-align: center;
+}
+.container h1 
+{
+    color: white;
+}
+#price , #name 
+{
+    width: 200px;
+    height: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#add 
+{
+    width: 50px;
+    height: 30px;
+    background-color: red;
+    margin-left: 10px;
+    color: white;
+    border: none;
+    margin-bottom: 20px;
+}
+#i 
+{
+    color: red;
+}
+@media (max-width:700px) {
+    .container
+{
+ 
+    width: 100%;
+   padding: 40x 10px;
+    margin: auto;
+    text-align: center;
+}
+#price , #name 
+{
+    width: 200px;
+    height: 30px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+}
+}
